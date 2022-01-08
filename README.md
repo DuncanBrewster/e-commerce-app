@@ -4,4 +4,4 @@ A full-stack E-Commerce app connected to an API with functioning pages as well a
 Built from scratch with React and using Node.js, Redux, Stripe, Express, MongoDB, and JWT.
 
 
-![e-commerce-app-photo](https://user-images.githubusercontent.com/87501964/147997093-be972c5d-24ac-4f97-b7c8-c7a97ec25bc6.PNG)
+![image](https://user-images.githubusercontent.com/87501964/148622785-25850acb-f32d-48d6-a945-bd7293924c1f.png)
