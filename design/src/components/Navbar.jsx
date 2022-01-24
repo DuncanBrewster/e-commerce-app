@@ -5,7 +5,6 @@ import styled from 'styled-components';
 import { mobile } from '../responsive';
 import { useSelector } from "react-redux";
 import { Link } from 'react-router-dom';
-import { navigate } from '@reach/router';
 
 const Container = styled.div`
     height: 60px;
