@@ -58,7 +58,7 @@ const ProductList = () => {
            <Navbar/> 
            <Announcement/>
            <Title>{cat}</Title>
-           <FilterContainer>
+           {/* <FilterContainer>
                <Filter>
                    <FilterText>Filter Products</FilterText>
                    <Select name = "color" onChange={handleFilters}>
@@ -91,7 +91,7 @@ const ProductList = () => {
                         <Option value = "desc">Price (desc)</Option>
                     </Select>
                 </Filter>
-           </FilterContainer>
+           </FilterContainer> */}
            <Products cat = {cat} filters = {filters} sort = {sort} />
            <Newsletter/>
            <Footer/>

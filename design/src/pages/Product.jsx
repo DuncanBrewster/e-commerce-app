@@ -166,7 +166,7 @@ const Product = () => {
         <Container>
             <Navbar/>
             <Announcement/>
-            <Link link to ="/">
+            <Link to = "/products/products">
                     <TopButton>CONTINUE SHOPPING</TopButton>
                 </Link>
             <Wrapper> 
