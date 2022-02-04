@@ -12,6 +12,8 @@ import { useHistory } from "react-router-dom";
 import { Link } from 'react-router-dom';
 
 
+const KEY = process.env.REACT_APP_STRIPE;
+
 const Container = styled.div``;
 
 const Wrapper = styled.div`
@@ -164,6 +166,7 @@ const Cart = () => {
     const history = useHistory();
     const quantity = useSelector(state => state.cart.quantity);
     const [product, setProduct] = useState({});
+    
    
 
     const onToken = (token) => {
@@ -207,7 +210,7 @@ const Cart = () => {
                         description={`Your total is $${cart.total}`}
                         amount={cart.total*100}
                         token={onToken}
-                        stripeKey= "pk_test_51K4wKHHYFW1OSpjXbRrXhm89TET1tapEOgsqKWRfEDMiVmo4TYRKDz2TTm6YrepOKMhajN7YCTlyAwjjD9TRjLMS00pwMMzpjI"
+                        stripeKey= {KEY}
                     >
                         <TopButton type="filled">CHECKOUT NOW</TopButton>
                     </StripeCheckout>                        
@@ -267,7 +270,7 @@ const Cart = () => {
                             description={`Your total is $${cart.total}`}
                             amount={cart.total*100}
                             token={onToken}
-                            stripeKey= "pk_test_51K4wKHHYFW1OSpjXbRrXhm89TET1tapEOgsqKWRfEDMiVmo4TYRKDz2TTm6YrepOKMhajN7YCTlyAwjjD9TRjLMS00pwMMzpjI"
+                            stripeKey= {KEY}
                         >
                             <Button>CHECKOUT NOW</Button>
                         </StripeCheckout>
