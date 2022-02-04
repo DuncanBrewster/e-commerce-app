@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/87501964/152612367-18a03660-3684-4e33-9fda-3af17862f9b7.png)
+![e-commerce-app-photo](https://user-images.githubusercontent.com/87501964/152616519-81c360f6-5b36-4558-a14f-c099951d9d16.PNG)
 
 # [e-commerce-app](https://duncan-e-commerce-app.netlify.app/)
 
