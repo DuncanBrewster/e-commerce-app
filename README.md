@@ -14,7 +14,7 @@ Built from scratch with React and using Node.js, Redux, Stripe, Express, MongoDB
 
 ## Features
 * Shop through a list of items and add them to your cart
-* Connected to an API 
+* Connected to an API
 * Stripe payment feature (If you want to try it out, you can always type in "test" into the input fields)
 * Is mobile and desktop friendly
 
