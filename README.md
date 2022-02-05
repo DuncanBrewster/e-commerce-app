@@ -42,7 +42,7 @@ REACT_APP_STRIPE = yourUniqueApiKey
 npm start
 ```
 
-7. View the project in your internet browser at [http://localhost:9000](http://localhost:9000).
+7. View the project in your internet browser at [http://localhost:9000](http://localhost:3000).
 
 
 
