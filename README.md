@@ -7,7 +7,7 @@ An E-commerce app for a fictional clothing company. This project is currently ho
 
 ## Features
 * Shop through a list of items and add them to your cart
-* Connected to an API
+* Connected to a Rest API
 * Stripe payment feature (If you want to try it out, you can always type in "test" into the input fields)
 * Uses client-side routing via React-Router
 * Utilizes HTTP requests to connect product database and stripe to the user
