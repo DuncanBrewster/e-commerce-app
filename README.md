@@ -52,6 +52,7 @@ This project:
 
 * was built with **React**.
 * is styled with **Styled Components**.
+* uses **JSX**.
 * Rest API was built using **Postman**.
 * Rest API is connected to the app with **MongoDB**.
 * hosted on [Netlify](https://duncan-e-commerce-app.netlify.app).
