@@ -16,6 +16,7 @@ Built from scratch with React and using Node.js, Redux, Stripe, Express, MongoDB
 * Shop through a list of items and add them to your cart
 * Connected to an API
 * Stripe payment feature (If you want to try it out, you can always type in "test" into the input fields)
+* Uses client-side routing via React-Router
 * Is mobile and desktop friendly
 
 ## Installation
@@ -58,7 +59,7 @@ This project:
 * was built with **React**.
 * is styled with **Styled Components**.
 * API was built using **Postman**.
-* API is connected to the app with **Mongoose**.
+* API is connected to the app with **MongoDB**.
 * hosted on [Netlify](https://duncan-e-commerce-app.netlify.app).
 
 
