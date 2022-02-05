@@ -17,6 +17,7 @@ Built from scratch with React and using Node.js, Redux, Stripe, Express, MongoDB
 * Connected to an API
 * Stripe payment feature (If you want to try it out, you can always type in "test" into the input fields)
 * Uses client-side routing via React-Router
+* Utilizes HTTP requests to connect product database and stripe to the user
 * Is mobile and desktop friendly
 
 ## Installation
