@@ -20,16 +20,34 @@ Built from scratch with React and using Node.js, Redux, Stripe, Express, MongoDB
 
 ## Installation
 
-1. Clone the repository to your computer.
-
+1. Clone this repository to your computer.
 ```bash
-git clone https://github.com/DuncanBrewster/e-commerce-app.git
+git clone https://github.com/DuncanBrewster/e-commerce-app.git 
 ```
 
-2. To view the project locally, navigate to the project folder and open the `index.html` file in a web browser.
+2. On the master branch, install the NPM dependencies.
+```bash
+npm install
+```
 
+3. This project requires a Stripe API key. Create an account at [stripe.com](https://stripe.com/) to get your key.
 
-3. Download 
+4. Create a .env file in your root directory.
+```bash
+touch .env
+```
+
+5. Inside your .env file, create a variable called REACT_APP_STRIPE and set it to your unique API key.
+```bash
+REACT_APP_STRIPE = yourUniqueApiKey
+```
+
+6. Open the project on a development server.
+```bash
+npm start
+```
+
+7. View the project in your internet browser at [http://localhost:9000](http://localhost:9000).
 
 
 
