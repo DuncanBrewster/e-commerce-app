@@ -4,7 +4,7 @@
 
 An E-commerce app for a fictional clothing company. This project is currently hosted on [Netlify](https://duncan-e-commerce-app.netlify.app).
 
-A full-stack E-Commerce app connected to an API with functioning pages as well as a stripe payment feature. 
+A full-stack E-Commerce app connected to a Rest API with functioning pages as well as a stripe payment feature. 
 
 Built from scratch with React and using Node.js, Redux, Stripe, Express, MongoDB, and JWT.
 
@@ -58,8 +58,8 @@ This project:
 
 * was built with **React**.
 * is styled with **Styled Components**.
-* API was built using **Postman**.
-* API is connected to the app with **MongoDB**.
+* Rest API was built using **Postman**.
+* Rest API is connected to the app with **MongoDB**.
 * hosted on [Netlify](https://duncan-e-commerce-app.netlify.app).
 
 
