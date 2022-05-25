@@ -50,7 +50,7 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://www.nicepng.com/png/detail/952-9529103_cool-designs-t-shirt.png",
+      img:"https://www.pngplay.com/wp-content/uploads/2/Dress-Shirt-Transparent-Image.png",
     },
     {
       id:3,
