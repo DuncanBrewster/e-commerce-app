@@ -1,6 +1,6 @@
 ![e-commerce-app-photo](https://user-images.githubusercontent.com/87501964/152616519-81c360f6-5b36-4558-a14f-c099951d9d16.PNG)
 
-# [e-commerce-app](https://duncan-e-commerce-app.netlify.app/)
+# [E-Commerce App](https://duncan-e-commerce-app.netlify.app/)
 
 An E-commerce app for a fictional clothing company. This project is currently hosted on [Netlify](https://duncan-e-commerce-app.netlify.app).
 
