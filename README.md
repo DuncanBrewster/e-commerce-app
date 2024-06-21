@@ -1,3 +1,5 @@
+NOTE: Clothing products will not show up because the data cluster on MongoDB was inactive over 60 days and the backup snapshot is too old.
+
 ![e-commerce-app-photo](https://user-images.githubusercontent.com/87501964/152616519-81c360f6-5b36-4558-a14f-c099951d9d16.PNG)
 
 # [E-Commerce App](https://duncan-e-commerce-app.netlify.app/)
